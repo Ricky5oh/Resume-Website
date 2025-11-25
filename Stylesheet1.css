@@ -1,0 +1,30 @@
+@charset "UTF 8";
+
+header {
+
+    background-color: rgb(19, 19, 178);
+
+
+
+}
+
+body {
+  background-color: rgb(254, 251, 251);
+
+    
+}
+
+nav {
+
+    background-color: rgb(90, 143, 241);
+    text-align: center;
+    text-decoration-color: rgb(255, 255, 255);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding-left: initial;
+
+}
+
+h1 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
